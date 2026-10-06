@@ -1,3 +1,11 @@
+```
+   _____                           _____ __             __
+  / ___/____ _   _____  _________ / ___// /_____ ______/ /__
+  \__ \/ __ \ | / / _ \/ ___/ __ \\__ \/ __/ __ `/ ___/ //_/
+ ___/ / /_/ / |/ /  __/ /  / / / /__/ / /_/ /_/ / /__/ ,<
+/____/\____/|___/\___/_/  /_/ /_/____/\__/\__,_/\___/_/|_|
+```
+
 # sovern-cli ⚡
 
 **Rent a slice of a GPU. Ship your model. Get back to the fun part.**
@@ -13,6 +21,14 @@ No dashboard. No clicking. Just your terminal and a GPU.
 ```bash
 pip install sovern
 ```
+
+## Get your API key
+
+You'll need a SovernStack API key so the CLI knows it's really you:
+
+1. Head to [app.sovernstack.com](https://app.sovernstack.com) and sign in (or create an account if you're new).
+2. Grab your API key from your account.
+3. Keep it secret, keep it safe. Don't commit it, don't paste it in screenshots, and don't put it in a public repo. Treat it like a password.
 
 ## Quick start
 
